@@ -139,5 +139,6 @@ Open your browser at `http://localhost:8501` to use the application locally!
 
 ---
 
-## 📄 License
-This project is open-source.
+## 👤 Author & Open Source
+
+Created by a **Machine Learning Student** as an open-source project for everyone. Feel free to explore, fork, star ⭐, and contribute!
