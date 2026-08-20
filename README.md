@@ -1,7 +1,5 @@
 # 🚗 PriceView · Used Car Price Estimation & Market Segmentation
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://priceview-myjfz6vgy4adab6tzjt9sc.streamlit.app/)
-
 PriceView is a machine learning project that predicts the **resale price of a used car** and classifies it into a **price segment** (*Budget*, *Mid-Range*, or *Luxury*) based on vehicle specs such as age, mileage, engine capacity, and fuel type.
 
 ---
@@ -10,7 +8,7 @@ PriceView is a machine learning project that predicts the **resale price of a us
 
 The live interactive application is deployed on Streamlit Cloud:
 
-👉 **[Launch PriceView Live App](https://priceview-myjfz6vgy4adab6tzjt9sc.streamlit.app/)**
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://priceview-myjfz6vgy4adab6tzjt9sc.streamlit.app/)
 
 ---
 
