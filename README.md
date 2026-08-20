@@ -1,6 +1,16 @@
 # 🚗 PriceView · Used Car Price Estimation & Market Segmentation
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://priceview-myjfz6vgy4adab6tzjt9sc.streamlit.app/)
+
 PriceView is a machine learning project that predicts the **resale price of a used car** and classifies it into a **price segment** (*Budget*, *Mid-Range*, or *Luxury*) based on vehicle specs such as age, mileage, engine capacity, and fuel type.
+
+---
+
+## 🌐 Live Web Application
+
+The live interactive application is deployed on Streamlit Cloud:
+
+👉 **[Launch PriceView Live App](https://priceview-myjfz6vgy4adab6tzjt9sc.streamlit.app/)**
 
 ---
 
@@ -92,7 +102,7 @@ PriceView/
 
 ---
 
-## 🚀 Quick Start Guide
+## 🚀 Quick Start Guide (Local Setup)
 
 ### Step 1: Clone the Repository
 ```bash
@@ -113,11 +123,11 @@ source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
-### Step 3: Run the Streamlit Web Application
+### Step 3: Run the Streamlit Web Application Locally
 ```bash
 streamlit run src/app.py
 ```
-Open your browser at `http://localhost:8501` to use the application!
+Open your browser at `http://localhost:8501` to use the application locally!
 
 ---
 
