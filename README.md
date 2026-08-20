@@ -130,4 +130,4 @@ Open your browser at `http://localhost:8501` to use the application!
 ---
 
 ## 📄 License
-This project is open-source and released under the [MIT License](LICENSE).
+This project is open-source.
